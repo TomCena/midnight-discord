@@ -9,11 +9,11 @@
 	/* color of unread dividers and some indicators */
 	--accent-2: hsl(360, 100%, 50%);
 	/* color of accented buttons */
-	--accent-3: hsl(360, 100%, 50%);
+	--accent-3: hsl(190, 70%, 40%);
 	/* color of accented buttons when hovered */
-	--accent-4: hsl(360, 100%, 50%);
+	--accent-4: hsl(190, 70%, 40%);
 	/* color of accented buttons when clicked */
-	--accent-5: hsl(360, 100%, 50%);
+	--accent-5: hsl(190, 70%, 40%);
 
 	/* color of mentions and messages that mention you */
 	--mention: hsla(360, 100%, 50%, 0.1);
