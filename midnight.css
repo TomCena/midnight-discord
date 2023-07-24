@@ -5,7 +5,7 @@
 	--roundness: 16px;
 
 	/* color of links */
-	--accent-1: hsl(360, 100%, 50%);
+	--accent-1: hsl(190, 70%, 40%);
 	/* color of unread dividers and some indicators */
 	--accent-2: hsl(360, 100%, 50%);
 	/* color of accented buttons */
@@ -16,9 +16,9 @@
 	--accent-5: hsl(190, 70%, 40%);
 
 	/* color of mentions and messages that mention you */
-	--mention: hsla(360, 100%, 50%, 0.1);
+	--mention: hsla(190, 60%, 50%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(360, 100%, 50%, 0.05);
+	--mention-hover: hsla(190, 60%, 50%, 0.05);
 
 	/* color of bright text on colored buttons */
 	--text-1: hsl(220, 40%, 90%);
